@@ -44,8 +44,6 @@ void loop()
     delay(250);
     noTone(buzzerPIN2);
    
-  
-    
     
     //usar tone(pinDelBuzzer, frecuencia, tiempo); y not(pinBuzzer)
     
